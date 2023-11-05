@@ -39,18 +39,17 @@ Login Page
 
 Product Page
 
-![Product Page](![image](https://github.com/Pranavi-Kayapati/meesho-clone/assets/119408915/50ee5a9a-a6f0-4bdb-85ff-db13b1768c47)
-)
+![image](https://github.com/Pranavi-Kayapati/meesho-clone/assets/119408915/7d05da6b-19fa-48a9-9c0e-c88e9048d906)
 
 Single Product Page
 
-![Single Product Page](![image](https://github.com/Pranavi-Kayapati/meesho-clone/assets/119408915/9925a3cb-e995-484b-81f1-c23e3e87bcc4)
-)
+![image](https://github.com/Pranavi-Kayapati/meesho-clone/assets/119408915/e32df757-58a2-4816-9772-020d456a7ab9)
+
 
 Cart Page
 
-![Cart Page](![image](https://github.com/Pranavi-Kayapati/meesho-clone/assets/119408915/03a38459-5179-4c30-967a-defcb7e27f4d)
-)
+![image](https://github.com/Pranavi-Kayapati/meesho-clone/assets/119408915/98ff0743-e860-46f2-8194-6c51ffa1a598)
+
 
 
 
