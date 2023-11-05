@@ -30,8 +30,8 @@ Landing Page
 
 This is the homepage of Project.In this page we have navbar to navigate through different pages, sliders and banners displaying latest products and dedicated different sections for different porducts .
 
-![Landing Page](![image](https://github.com/Pranavi-Kayapati/meesho-clone/assets/119408915/971fb619-e6b3-4468-b4f8-fbd929af30b7)
-)
+![image](https://github.com/Pranavi-Kayapati/meesho-clone/assets/119408915/9ac93db0-22eb-469b-93a2-8f515b21711f)
+
 
 Login Page
 
