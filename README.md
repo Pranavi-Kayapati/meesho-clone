@@ -35,9 +35,7 @@ This is the homepage of Project.In this page we have navbar to navigate through 
 
 Login Page
 
-![loginPage](![image](https://github.com/Pranavi-Kayapati/meesho-clone/assets/119408915/e7c02247-b3fc-46a3-abf2-fc5bbde830d7)
-)
-
+![image](https://github.com/Pranavi-Kayapati/meesho-clone/assets/119408915/a1d20f72-09e4-41ce-8fc6-b37b0a15b8b6)
 
 Product Page
 
