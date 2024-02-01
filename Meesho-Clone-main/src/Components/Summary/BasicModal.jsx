@@ -39,7 +39,7 @@ export default function BasicModal() {
           Your Order Has Been Placed Successfully
         </Typography>
         <Typography id="modal-modal-description" sx={{ mt: 2 }}>
-          Thank you for ordering from Meesho
+          Thank you for ordering from TrendCart
         </Typography>
         <Typography id="modal-modal-description" sx={{ mt: 2 }}>
           Order Id: #meesho1603200

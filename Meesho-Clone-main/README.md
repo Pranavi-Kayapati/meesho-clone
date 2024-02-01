@@ -1,6 +1,6 @@
 # Meesho Website Clone
 
-Meesho is a social commerce platform that undertakes retail distribution, enabling small retail merchants to connect and sell their products effectively via social media channels.
+TrendCart is a social commerce platform that undertakes retail distribution, enabling small retail merchants to connect and sell their products effectively via social media channels.
 
 # Video Link
 
@@ -29,5 +29,3 @@ Meesho is a social commerce platform that undertakes retail distribution, enabli
 3. Product Page
 
    ![Product](https://i.imgur.com/VlUxeVG.png)
-   
-   

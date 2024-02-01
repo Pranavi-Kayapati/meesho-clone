@@ -31,7 +31,7 @@ export default function Profile() {
         </p>
         <button onClick={submitForm}>Send OTP</button>
         <p id="privacy-policy">
-          <p>By continuing, you agree to Meesho's</p>{" "}
+          <p>By continuing, you agree to TrendCart's</p>{" "}
           <span>Terms &amp; Conditions</span> and <span>Privacy Policy</span>
         </p>
       </div>

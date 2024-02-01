@@ -118,7 +118,7 @@ export default function Product() {
           <p>Sold By</p>
           <article>
             <FaShopify />
-            <span>{soldBy}</span>
+            {/* <span>{soldBy}</span> */}
             <button>View Shop</button>
           </article>
           <h6>
