@@ -7,7 +7,7 @@ An individual project build with in a span of 5 days
 
 # Deployed link
 
-https://meesho-clone-kappa.vercel.app/
+https://trend-cart-pranavi.vercel.app/
 
 # Tech Stack 💻
 
